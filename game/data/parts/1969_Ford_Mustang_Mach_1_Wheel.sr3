@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 1969 Ford Mustang Mach 1 Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 1969_Ford_Mustang_Mach_1_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

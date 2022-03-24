@@ -1,0 +1,70 @@
+Material_#5 {
+	Pass1 {
+		RGB 0.533333, 0.533333, 0.533333
+		Backcull false
+	}
+}
+
+Window {
+	Pass1 {
+		TcGen tc_sphere
+		Texture chrome.png
+		Alpha 0.3
+		Blend b_alpha
+	}
+	Pass2 {
+		Texture black.png
+		Alpha 0.5
+		Blend b_alpha
+	}
+}
+
+CarMaterial {
+	Pass1 {
+		RGB 0.196078, 0.250980, 1.000000
+		Backcull false
+	}
+}
+
+Under {
+	Pass1 {
+		Texture black.png
+		Backcull false
+	}
+}
+
+grill {
+	Pass1 {
+		Texture mustgril.png
+		Backcull false
+	}
+}
+
+headlight {
+	Pass1 {
+		Texture musheads.png
+		Backcull false
+	}
+}
+
+ShinyMetal {
+	Pass1 {
+		TcGen tc_sphere
+		Texture chrome.png
+		Backcull false
+	}
+	Pass2 {
+		Texture grey.png
+		Alpha 0.75
+		Blend b_alpha
+		Backcull false
+	}
+}
+
+tail {
+	Pass1 {
+		Texture mustail.png
+		Backcull false
+	}
+}
+

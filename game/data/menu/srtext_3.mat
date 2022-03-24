@@ -1,0 +1,8 @@
+mat {
+	Pass1 {
+		TcGen tc_sphere
+		Texture chrome.png
+		//Alpha 1
+		//Blend b_alpha
+	}	
+}

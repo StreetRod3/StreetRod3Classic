@@ -1,0 +1,25 @@
+ShinyMetal {
+	Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+2_-_Default1 {
+	Pass1 {
+		Texture TIRE.PNG
+	}
+}
+
+3_-_Default {
+	Pass1 {
+		Texture TREAD.PNG
+	}
+}
+

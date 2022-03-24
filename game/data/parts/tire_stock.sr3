@@ -1,0 +1,14 @@
+# Standard tire that comes with most cars
+
+[General]
+Name = Normal Tire
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = tire1
+
+[Price]
+MinPrice = 0
+MaxPrice = 30
+
+[Performance]
+Cornering = 0.5

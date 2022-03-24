@@ -1,0 +1,239 @@
+Road {
+	Pass1 {
+		Texture Road.png
+		Alpha 1.000000
+		Blend b_alpha
+	}
+}
+
+Curb {
+	Pass1 {
+		Texture Cement.png
+	}
+}
+
+CityLimitsSign {
+	Pass1 {
+		Texture s_citylimits.png
+	}
+}
+
+Road-Intersection {
+	Pass1 {
+		Texture Road-Inter2.png
+	}
+}
+
+Material_#7 {
+	Pass1 {
+		Texture Road-Inter.png
+	}
+}
+
+TrafficLight {
+	Pass1 {
+		Texture Traffic_unlit.png
+	}
+}
+
+Grass {
+	Pass1 {
+		Texture grass.png
+	}
+}
+
+HouseDoor1 {
+	Pass1 {
+		Texture house_door1.png
+	}
+}
+
+Material_#2 {
+	Pass1 {
+		Texture Cement.png
+	}
+}
+
+Material_#17 {
+	Pass1 {
+		Texture wood.png
+	}
+}
+
+Material_#16 {
+	Pass1 {
+		Texture house_window1.png
+	}
+}
+
+Roof {
+	Pass1 {
+		Texture roof.png
+	}
+}
+
+whitewood {
+	Pass1 {
+		Texture whitewood.png
+	}
+}
+
+Bricks {
+	Pass1 {
+		Texture m_brick2.png
+	}
+}
+
+Window1 {
+	Pass1 {
+		Texture house_window1.png
+	}
+}
+
+Door01 {
+	Pass1 {
+		Texture house_door3.png
+	}
+}
+
+Roof2 {
+	Pass1 {
+		Texture house_roof2.png
+	}
+}
+
+garagedoor {
+	Pass1 {
+		Texture garagedoor.png
+	}
+}
+
+Bricks2 {
+	Pass1 {
+		Texture house_bricks2.png
+	}
+}
+
+Door02 {
+	Pass1 {
+		Texture house_door2.png
+	}
+}
+
+Material_#71 {
+	Pass1 {
+		Texture Cement.png
+	}
+}
+
+roof3 {
+	Pass1 {
+		Texture house_roof3.png
+	}
+}
+
+bricks3 {
+	Pass1 {
+		Texture house_bricks3.png
+	}
+}
+
+window02 {
+	Pass1 {
+		Texture house_window2.png
+	}
+}
+
+stucco1 {
+	Pass1 {
+		Texture house_wall1.png
+	}
+}
+
+Bricks4 {
+	Pass1 {
+		Texture house_bricks4.png
+	}
+}
+
+door4 {
+	Pass1 {
+		Texture house_door4.png
+	}
+}
+
+roof4 {
+	Pass1 {
+		Texture house_roof5.png
+	}
+}
+
+Bricks5 {
+	Pass1 {
+		Texture house_bricks5.png
+	}
+}
+
+Bricks6 {
+	Pass1 {
+		Texture house_bricks6.png
+	}
+}
+
+Window3 {
+	Pass1 {
+		Texture house_window3.png
+	}
+}
+
+bricks7 {
+	Pass1 {
+		Texture house_bricks7.png
+	}
+}
+
+tree01 {
+	Pass1 {
+		Texture tree01.png
+		Backcull false
+	}
+}
+
+tree02 {
+	Pass1 {
+		Texture tree02.png
+		Backcull false
+	}
+}
+
+wood_fence {
+	Pass1 {
+		Texture woodfence.png
+		Backcull false
+	}
+}
+
+Cement {
+	Pass1 {
+		Texture Cement.png
+	}
+}
+
+black {
+	Pass1 {
+		Texture black.png
+	}
+}
+
+streelight {
+	Pass1 {
+		Texture outlight.png
+	}
+}
+
+Sign69 {
+	Pass1 {
+		Texture sign_69er_ahead.png
+	}
+}
+

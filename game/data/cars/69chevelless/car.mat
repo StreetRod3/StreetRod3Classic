@@ -1,0 +1,112 @@
+Material_#16 {
+	Pass1 {
+		Texture 69CVR_QUARTERS.png
+	}
+}
+
+headlight {
+	Pass1 {
+		Texture 69CVDASH.png
+	}
+}
+
+Material_#24 {
+	Pass1 {
+		Texture 69CVCHROME.png
+		Backcull false
+	}
+}
+
+Material_#17 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+grill {
+	Pass1 {
+		Texture 69CVINTERIOR.png
+	}
+}
+
+test {
+	Pass1 {
+		Texture black.jpg
+	}
+}
+
+tail {
+	Pass1 {
+		Texture 69CVINTERIOR.png
+		backcull false
+	}
+}
+
+Material_#11 {
+	Pass1 {
+		Texture 69CVCHROME.png
+		backcull false
+	}
+}
+
+Material_#23 {
+	Pass1 {
+		Texture 69CVLIGHTS.png
+		backcull false
+	}
+}
+
+Window {
+	Pass1 {
+		RGB 0.721569, 0.709804, 1.000000
+		Alpha 0.500000
+		Blend b_alpha
+		backcull false
+	}
+}
+
+Material_#13 {
+	Pass1 {
+		Texture chevelle.png
+	}
+}
+
+Material_#15 {
+	Pass1 {
+		Texture plate.png
+	}
+}
+
+CarMaterial {
+Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+RGB 1,0,0
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+cowls {
+	Pass1 {
+		Texture cowls.png
+	}
+}
+
+Default {
+	Pass1 {
+		RGB 0.700000, 0.700000, 0.700000
+		backcull false
+	}
+}
+
+Material_#14 {
+	Pass1 {
+		Texture ss.png
+	}
+}
+

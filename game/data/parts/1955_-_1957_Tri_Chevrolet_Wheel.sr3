@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 1955 - 1957 Tri Chevrolet Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 1955_-_1957_Tri_Chevrolet_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

@@ -1,0 +1,6 @@
+wheel {
+	Pass1 {
+		Texture wheel.png
+	}
+}
+

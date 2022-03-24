@@ -1,0 +1,126 @@
+parking_space {
+	Pass1 {
+		Texture asphalt01.PNG
+	}
+}
+
+asphalt {
+	Pass1 {
+		Texture ASPHALT3.PNG
+	}
+}
+
+diner01 {
+	Pass1 {
+		Texture dinerwall.PNG
+	}
+}
+
+glass {
+	Pass1 {
+		RGB 0.588235, 0.717647, 0.980392
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+concrete {
+	Pass1 {
+		RGB 0.882353, 0.882353, 0.882353
+	}
+}
+
+floor {
+	Pass1 {
+		Texture Tiles_chk.PNG
+	}
+}
+
+ceiling {
+	Pass1 {
+		RGB 0.901961, 0.901961, 0.901961
+	}
+}
+
+walls {
+	Pass1 {
+		RGB 0.164706, 0.462745, 0.227451
+	}
+}
+
+14_-_Default {
+	Pass1 {
+		Texture CEDFENCE.PNG
+	}
+}
+
+jukebox {
+	Pass1 {
+		Texture WJUKEBOX.PNG
+	}
+}
+
+popcorn {
+	Pass1 {
+		Texture popcornmachine.PNG
+	}
+}
+
+18_-_Default {
+	Pass1 {
+		Texture SIGN04.PNG
+	}
+}
+
+19_-_Default {
+	Pass1 {
+		Texture SIGN05.PNG
+	}
+}
+
+20_-_Default {
+	Pass1 {
+		Texture SIGN03.PNG
+	}
+}
+
+21_-_Default {
+	Pass1 {
+		Texture SIGN01.PNG
+	}
+}
+
+22_-_Default {
+	Pass1 {
+.PNG		Texture SIGN02.PNG
+	}
+}
+
+Title {
+	Pass1 {
+		Texture Title.png
+	}
+}
+
+Material_#24 {
+	Pass1 {
+		Texture diner.png
+	}
+}
+
+Material_#18 {
+	Pass1 {
+		Texture restaurant.png
+	}
+}
+
+Shiny {
+	Pass1 {
+		RGB 0.556863, 0.725490, 0.192157
+	}
+	Pass2 {
+		Texture reflect.PNG
+		TcGen tc_sphere
+	}
+}
+

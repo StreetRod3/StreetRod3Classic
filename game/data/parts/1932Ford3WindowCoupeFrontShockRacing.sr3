@@ -1,0 +1,15 @@
+[General]
+Name = Front Racing Shock Absorber
+Description = \nFits 1932 Ford 3 Window Coupe
+Type = PRT_SHOCK
+Manufacturer = MAN_ANY
+Model = 1932Ford3WindowCoupeFrontShockRacing
+
+[Price]
+MinPrice = 60
+MaxPrice = 80
+
+[Performance]
+Spring = 500
+Dampening = 30
+RestLength = 1.8

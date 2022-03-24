@@ -1,0 +1,14 @@
+# Brand name tire that is a bit better then a normal tire
+
+[General]
+Name = Brand name tire
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = tire1
+
+[Price]
+MinPrice = 0
+MaxPrice = 50
+
+[Performance]
+Cornering = 0.75

@@ -1,0 +1,15 @@
+# Ford v6 small engine block
+
+[General]
+Name = Ford V-6 engine
+Description = small
+Type = PRT_BLOCK
+Manufacturer = MAN_FORD
+Model = v6block
+Size = medium
+
+[Price]
+MinPrice = 125
+MaxPrice = 250
+
+[Performance]

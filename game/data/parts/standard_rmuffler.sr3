@@ -1,0 +1,13 @@
+# Standard right muffler that comes with most cars
+
+[General]
+Name = Regular right muffler
+Type = PRT_RMUFFLER
+Manufacturer = MAN_ANY
+Model = rmuffler1
+
+[Price]
+MinPrice = 40
+MaxPrice = 75
+
+[Performance]

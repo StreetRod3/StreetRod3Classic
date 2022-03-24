@@ -1,0 +1,53 @@
+#
+# Street Rod 3 Track Script
+#
+# By Jason Boettcher
+# Created on 1st August, 2003
+#
+
+
+
+#
+# Light Spots
+#
+$spotlight0[1-9] {
+   Type Quad
+   Texture data/textures/lightspot.png
+   Dimension 25,25
+   Alpha 0.3
+   Blend b_alphaone
+   Colour 0.3,0.3,0.3 
+   DepthMask false
+}
+$spotlight[10-29] {
+   Type Quad
+   Texture data/textures/lightspot.png
+   Dimension 25,25
+   Alpha 0.3
+   Blend b_alphaone
+   Colour 0.3,0.3,0.3 
+   DepthMask false
+}
+
+
+#
+# Coronas
+#
+$corona0[1-9] {
+   Type Corona
+   Texture data/textures/corona.png
+   Size 1
+   Alpha 1
+   Blend b_colour
+   Colour 1,1,1
+   DepthMask false
+}
+$corona[10-29] {
+   Type Corona
+   Texture data/textures/corona.png
+   Size 1
+   Alpha 1
+   Blend b_colour
+   Colour 1,1,1
+   DepthMask false
+}

@@ -1,0 +1,15 @@
+# Ford v8 351 engine block
+
+[General]
+Name = Ford V-8 engine
+Description = 351 cu.in.
+Type = PRT_BLOCK
+Manufacturer = MAN_FORD
+Model = v8block
+Size = large
+
+[Price]
+MinPrice = 125
+MaxPrice = 250
+
+[Performance]

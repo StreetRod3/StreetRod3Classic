@@ -1,0 +1,8 @@
+Material_#24 {
+	Pass1 {
+		RGB 0.486275, 0.611765, 0.980392
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+

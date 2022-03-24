@@ -1,0 +1,7 @@
+Material_#5 {
+	Pass1 {
+		RGB 0.25, 0.25, 0.25
+		Backcull false
+	}
+}
+

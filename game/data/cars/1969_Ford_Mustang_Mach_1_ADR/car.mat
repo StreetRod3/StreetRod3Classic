@@ -1,0 +1,474 @@
+CarMaterial {
+Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+RGB 1.000000,0.905882,0.247059
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+Material_#11 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+3_-_Default1 {
+	Pass1 {
+		Texture BRAPED.PNG
+	}
+}
+
+2_-_Default111 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+2_-_Default2 {
+	Pass1 {
+		Texture CLUPED.PNG
+	}
+}
+
+3_-_Default2 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#111 {
+	Pass1 {
+		Texture INTERIOR.PNG
+	}
+}
+
+Material_#8 {
+	Pass1 {
+		Texture INTERIOR.PNG
+	}
+}
+
+Material_#1113 {
+	Pass1 {
+		Texture DASH3.PNG
+	}
+}
+
+Material_#2111 {
+	Pass1 {
+		Texture DASH1.PNG
+	}
+}
+
+Material_#3 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#24 {
+	Pass1 {
+		RGB 1.000000, 0.000000, 0.000000
+	}
+}
+
+Material_#13 {
+	Pass1 {
+		Texture SPEED3.PNG
+	}
+}
+
+Material_#9 {
+	Pass1 {
+		Texture SPEED2.PNG
+	}
+}
+
+Material_#81 {
+	Pass1 {
+		Texture SPEED1.PNG
+	}
+}
+
+Material_#7 {
+	Pass1 {
+		Texture DASH2.PNG
+	}
+}
+
+Material_#71 {
+	Pass1 {
+		Texture DASH4.PNG
+	}
+}
+
+Material_#1111 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#1112 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#21 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+1_-_Default {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#211 {
+	Pass1 {
+		Texture GRILLE.PNG
+	}
+}
+
+Material_#811 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#82 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#1118 {
+	Pass1 {
+		Texture FSPOILER.PNG
+	}
+}
+
+Material_#2112 {
+	Pass1 {
+		Texture GASCAP.PNG
+	}
+}
+
+2_-_Default11 {
+	Pass1 {
+		Texture GASPED.PNG
+	}
+}
+
+3_-_Default {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+8_-_Default1 {
+	Pass1 {
+		Texture RWBBAD.PNG
+	}
+}
+
+Material_#812 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+9_-_Default {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+1_-_Default1 {
+	Pass1 {
+		Texture KEYFOB.PNG
+	}
+}
+
+Material_#1114 {
+	Pass1 {
+		Texture DRIVLGT.PNG
+	}
+}
+
+Material_#2 {
+	Pass1 {
+		Texture WOOD.PNG
+	}
+}
+
+Material_#1 {
+	Pass1 {
+		Texture INTERIOR.PNG
+	}
+}
+
+Material_#1115 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+8_-_Default {
+	Pass1 {
+		Texture MACH1.TGA
+	}
+}
+
+Material_#11112 {
+	Pass1 {
+		Texture FOGCHRO.PNG
+	}
+}
+
+Material_#241 {
+	Pass1 {
+		Texture FOGLGT.PNG
+	}
+}
+
+Material_#14 {
+	Pass1 {
+		Texture FTRNSIG.PNG
+	}
+}
+
+2_-_Default {
+	Pass1 {
+		Texture INTERIOR.PNG
+	}
+}
+
+Material_#1116 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#1117 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#11113 {
+	Pass1 {
+		Texture HEDLGT.PNG
+	}
+}
+
+Material_#1119 {
+	Pass1 {
+		Texture HOODPIN.PNG
+	}
+}
+
+2_-_Default1 {
+	Pass1 {
+		Texture PARKLGT.PNG
+	}
+}
+
+Material_#11110 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#11115 {
+	Pass1 {
+		Texture LICENCE.PNG
+	}
+}
+
+1_-_Default2 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#11116 {
+	Pass1 {
+		Texture ROOFBA.PNG
+	}
+}
+
+Material_#11111 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+2_-_Default12 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#11114 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#22 {
+	Pass1 {
+		Texture RADIATO.PNG
+	}
+}
+
+Material_#11117 {
+	Pass1 {
+		Texture WINSLAT.PNG
+	}
+}
+
+Material_#11118 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#83 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#212 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+8_-_Default11 {
+	Pass1 {
+		Texture TAILLGT.PNG
+	}
+}
+
+Material_#11119 {
+	Pass1 {
+		Texture RTRNSIG.PNG
+	}
+}
+
+8_-_Default2 {
+	Pass1 {
+		Texture 8BALL.PNG
+	}
+}
+
+Material_#11120 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#2113 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#11121 {
+	Pass1 {
+		Texture WOOD.PNG
+	}
+}
+
+Material_#2114 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+2_-_Default13 {
+	Pass1 {
+		Texture SWHEEL.PNG
+	}
+}
+
+Material_#12 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#72 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Normal_Windows {
+	Pass1 {
+		RGB 0.501961, 0.501961, 0.501961
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+Normal_Window1 {
+	Pass1 {
+		RGB 0.501961, 0.501961, 0.501961
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+7_-_Default {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#112 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#15 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#23 {
+	Pass1 {
+		Texture SCOOP2.PNG
+	}
+}
+
+Material_#31 {
+	Pass1 {
+		Texture SCOOP1.PNG
+	}
+}
+
+Material_#11122 {
+	Pass1 {
+		Texture RBUMPER.PNG
+	}
+}
+
+Material_#11123 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+

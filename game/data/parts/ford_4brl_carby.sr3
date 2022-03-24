@@ -1,0 +1,14 @@
+# Ford 4brl carby
+
+[General]
+Name = Ford 4-brl Carburettor
+Type = PRT_CARBY
+Manufacturer = MAN_FORD
+Model = 4brlcarby
+Barrels = 4
+
+[Price]
+MinPrice = 50
+MaxPrice = 70
+
+[Performance]

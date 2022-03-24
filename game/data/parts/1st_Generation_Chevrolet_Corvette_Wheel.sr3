@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 1st Generation Chevrolet Corvette \nWheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 1st_Generation_Chevrolet_Corvette_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

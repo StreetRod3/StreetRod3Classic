@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 10 Spoke Shelby Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 10_Spoke_Shelby_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

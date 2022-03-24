@@ -1,0 +1,268 @@
+3_-_Default {
+	Pass1 {
+		Texture TCHM.PNG
+	}
+}
+
+9_-_Default1 {
+	Pass1 {
+		Texture STWEEL.PNG
+	}
+}
+
+CarMaterial {
+Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+RGB 1,0,0
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+Window {
+	Pass1 {
+		RGB 0.721569, 0.709804, 1.000000
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+10_-_Defaultæ {
+	Pass1 {
+		Texture FUELTANK.PNG
+	}
+}
+
+4_-_Default {
+	Pass1 {
+		Texture SCHRM.PNG
+	}
+}
+
+21_-_Default {
+	Pass1 {
+		Texture REMBLEM.PNG
+	}
+}
+
+2_-_Default1 {
+	Pass1 {
+		Texture TCHM.PNG
+	}
+}
+
+7_-_Default1 {
+	Pass1 {
+		Texture LREVERSE.PNG
+	}
+}
+
+15_-_Default11 {
+	Pass1 {
+		Texture LREVERSE.PNG
+	}
+}
+
+1_-_Default1 {
+	Pass1 {
+		Texture TEX.PNG
+	}
+}
+
+3_-_Default1 {
+	Pass1 {
+		Texture BCOLR2.PNG
+	}
+}
+
+19_-_Default1 {
+	Pass1 {
+		Texture SIDELGO.PNG
+	}
+}
+
+14_-_Default1 {
+	Pass1 {
+		Texture CHASSIS.PNG
+	}
+}
+
+5_-_Default {
+	Pass1 {
+		Texture SCHRM.PNG
+	}
+}
+
+10_-_Default1 {
+	Pass1 {
+		Texture CLOCK.PNG
+	}
+}
+
+12_-_Default {
+	Pass1 {
+		Texture RADIO.PNG
+	}
+}
+
+6_-_Default {
+	Pass1 {
+		Texture DASH.PNG
+	}
+}
+
+11_-_Default {
+	Pass1 {
+		Texture SPEEDO.PNG
+	}
+}
+
+17_-_Default {
+	Pass1 {
+		Texture XFRAME.PNG
+	}
+}
+
+55_-_Default {
+	Pass1 {
+		Texture SCHRM.PNG
+	}
+}
+
+11_-_Default1 {
+	Pass1 {
+		Texture TALIGHTS.PNG
+	}
+}
+
+14_-_Default {
+	Pass1 {
+		Texture GAUGE1.PNG
+	}
+}
+
+15_-_Default {
+	Pass1 {
+		Texture GAUGE3.PNG
+	}
+}
+
+16_-_Default {
+	Pass1 {
+		Texture GAUGE4.PNG
+	}
+}
+
+13_-_Default1 {
+	Pass1 {
+		Texture TACHO.PNG
+	}
+}
+
+14_-_Default2 {
+	Pass1 {
+		Texture FGRILLE.PNG
+	}
+}
+
+15_-_Default1 {
+	Pass1 {
+		Texture FSGRILLE.PNG
+	}
+}
+
+17_-_Defaultæ {
+	Pass1 {
+		Texture VETTELT.PNG
+	}
+}
+
+18_-_Defaultæ {
+	Pass1 {
+		Texture FLOGO.PNG
+	}
+}
+
+3_-_Default11 {
+	Pass1 {
+		Texture FLOOR.PNG
+	}
+}
+
+4_6-_Default {
+	Pass1 {
+		Texture FLOORM.PNG
+	}
+}
+
+1_-4_Default {
+	Pass1 {
+		Texture TEX.PNG
+	}
+}
+
+13_-_Default {
+	Pass1 {
+		Texture EXHAUST.PNG
+	}
+}
+
+6_-_Default1 {
+	Pass1 {
+		Texture PEDALS.PNG
+	}
+}
+
+8_-_Default1 {
+	Pass1 {
+		Texture DOORM.PNG
+	}
+}
+
+9_-_Default {
+	Pass1 {
+		Texture FLITEIN.PNG
+	}
+}
+
+16_-_Default1 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+17_-_Default1 {
+	Pass1 {
+		Texture REARM.PNG
+	}
+}
+
+24_-_Default {
+	Pass1 {
+		Texture SEATSB.PNG
+	}
+}
+
+23_-_Default1 {
+	Pass1 {
+		Texture SEATST.PNG
+	}
+}
+
+7_-_Default {
+	Pass1 {
+		Texture DOORPAN.PNG
+	}
+}
+
+2_-_Default11 {
+	Pass1 {
+		Texture PLATE.PNG
+	}
+}
+

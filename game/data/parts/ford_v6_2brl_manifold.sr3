@@ -1,0 +1,16 @@
+# Ford 2-Barrel Intake manifold
+
+[General]
+Name = Ford V6 2-brl Manifold
+Type = PRT_INTAKEMAN
+Manufacturer = MAN_FORD
+Model = v6-1carb-intake
+Carbys = 1
+Barrels = 2
+Size = medium
+
+[Price]
+MinPrice = 50
+MaxPrice = 125
+
+[Performance]

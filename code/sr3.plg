@@ -1,0 +1,303 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sr3 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0xc09 /fo"obj/Release/resource.res" /d "NDEBUG" "C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\resource.rc"" 
+Creating temporary file "C:\DOCUME~1\jpmmc\LOCALS~1\Temp\RSP37.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"obj/Release/sr3.pch" /YX /Fo"obj/Release/" /Fd"obj/Release/" /FD /c 
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Cache.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CEventQueue.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CInput.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CommonFuncs.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\ConfigHandler.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\FindFile.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\InitSystem.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\Keyword_Manager.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\Loggin.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\MathLib.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Sound.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\StateManager.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\TextureManager.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CCamera.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CMaterial.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CMatrix.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CModel.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CRigidBody.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Drawing.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Renderer.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CCar.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CCar_Driving.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CLocation.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CNut.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\COpponent.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CPart.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CPlayer.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CRadio.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSceneScript.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSidebar.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CTaskBar.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Diner.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Entity.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Game.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Gar_Parts.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage_Dlg.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage_Game.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage_Newspaper.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\Options.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\PartPool.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CButton.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CCheckbox.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourSlider.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CDialog.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CGuiLayout.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CLabel.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CListview.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CScrollbar.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSlider.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CTextbox.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CWidget.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\font.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\gui.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\text.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CarSimulation.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CLightManager.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CQuadTree.cpp"
+"C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Race_main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\jpmmc\LOCALS~1\Temp\RSP37.tmp" 
+Creating temporary file "C:\DOCUME~1\jpmmc\LOCALS~1\Temp\RSP38.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib advapi32.lib shell32.lib opengl32.lib glu32.lib /nologo /subsystem:windows /incremental:no /pdb:"obj/Release/sr3.pdb" /machine:I386 /out:"obj/Release/sr3.exe" 
+".\obj\Release\Cache.obj"
+".\obj\Release\CEventQueue.obj"
+".\obj\Release\CInput.obj"
+".\obj\Release\CommonFuncs.obj"
+".\obj\Release\ConfigHandler.obj"
+".\obj\Release\FindFile.obj"
+".\obj\Release\InitSystem.obj"
+".\obj\Release\Keyword_Manager.obj"
+".\obj\Release\Loggin.obj"
+".\obj\Release\MathLib.obj"
+".\obj\Release\Sound.obj"
+".\obj\Release\StateManager.obj"
+".\obj\Release\TextureManager.obj"
+".\obj\Release\CCamera.obj"
+".\obj\Release\CMaterial.obj"
+".\obj\Release\CMatrix.obj"
+".\obj\Release\CModel.obj"
+".\obj\Release\CQuaternion.obj"
+".\obj\Release\CRigidBody.obj"
+".\obj\Release\Drawing.obj"
+".\obj\Release\Renderer.obj"
+".\obj\Release\CCar.obj"
+".\obj\Release\CCar_Driving.obj"
+".\obj\Release\CLocation.obj"
+".\obj\Release\CNut.obj"
+".\obj\Release\COpponent.obj"
+".\obj\Release\CPart.obj"
+".\obj\Release\CPlayer.obj"
+".\obj\Release\CRadio.obj"
+".\obj\Release\CSceneScript.obj"
+".\obj\Release\CSidebar.obj"
+".\obj\Release\CSky.obj"
+".\obj\Release\CTaskBar.obj"
+".\obj\Release\Diner.obj"
+".\obj\Release\Entity.obj"
+".\obj\Release\Game.obj"
+".\obj\Release\Gar_Parts.obj"
+".\obj\Release\Garage.obj"
+".\obj\Release\Garage_Dlg.obj"
+".\obj\Release\Garage_Game.obj"
+".\obj\Release\Garage_Newspaper.obj"
+".\obj\Release\Menu.obj"
+".\obj\Release\Options.obj"
+".\obj\Release\PartPool.obj"
+".\obj\Release\CButton.obj"
+".\obj\Release\CCheckbox.obj"
+".\obj\Release\CColourPicker.obj"
+".\obj\Release\CColourSlider.obj"
+".\obj\Release\CDialog.obj"
+".\obj\Release\CGuiLayout.obj"
+".\obj\Release\CLabel.obj"
+".\obj\Release\CListview.obj"
+".\obj\Release\CScrollbar.obj"
+".\obj\Release\CSlider.obj"
+".\obj\Release\CTextbox.obj"
+".\obj\Release\CWidget.obj"
+".\obj\Release\font.obj"
+".\obj\Release\gui.obj"
+".\obj\Release\text.obj"
+".\obj\Release\CarSimulation.obj"
+".\obj\Release\CLightManager.obj"
+".\obj\Release\CQuadTree.obj"
+".\obj\Release\Race_main.obj"
+".\obj\Release\resource.res"
+".\lib\bass.lib"
+".\lib\SDL.lib"
+".\lib\SDL_image.lib"
+".\lib\SDLmain.lib"
+".\lib\coldet.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\jpmmc\LOCALS~1\Temp\RSP38.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Cache.cpp
+CEventQueue.cpp
+CInput.cpp
+CommonFuncs.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CommonFuncs.cpp(89) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CommonFuncs.cpp(94) : warning C4018: '<' : signed/unsigned mismatch
+ConfigHandler.cpp
+FindFile.cpp
+InitSystem.cpp
+Keyword_Manager.cpp
+Loggin.cpp
+MathLib.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\MathLib.cpp(176) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Sound.cpp
+StateManager.cpp
+TextureManager.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\TextureManager.cpp(252) : warning C4018: '==' : signed/unsigned mismatch
+CCamera.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CCamera.cpp(61) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CCamera.cpp(65) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+CMaterial.cpp
+CMatrix.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CMatrix.cpp(323) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CMatrix.cpp(324) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CMatrix.cpp(325) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CMatrix.cpp(326) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+CModel.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CModel.cpp(739) : warning C4018: '!=' : signed/unsigned mismatch
+CQuaternion.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(73) : warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(74) : warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(75) : warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(268) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(269) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(273) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(274) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CQuaternion.cpp(275) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+CRigidBody.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\common\CRigidBody.cpp(157) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Drawing.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Drawing.cpp(66) : warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Drawing.cpp(98) : warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Drawing.cpp(99) : warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+Renderer.cpp
+CCar.cpp
+CCar_Driving.cpp
+CLocation.cpp
+CNut.cpp
+COpponent.cpp
+CPart.cpp
+CPlayer.cpp
+CRadio.cpp
+CSceneScript.cpp
+CSidebar.cpp
+CSky.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp(52) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp(52) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp(54) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp(55) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSky.cpp(123) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+CTaskBar.cpp
+Diner.cpp
+Entity.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Entity.cpp(171) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+Game.cpp
+Gar_Parts.cpp
+Garage.cpp
+Garage_Dlg.cpp
+Garage_Game.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage_Game.cpp(952) : warning C4101: 'buf' : unreferenced local variable
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Garage_Game.cpp(949) : warning C4101: 'part' : unreferenced local variable
+Garage_Newspaper.cpp
+Menu.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(516) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(519) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(523) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(524) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(639) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(639) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(639) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(645) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(645) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(645) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(651) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(651) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(651) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(696) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(696) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Menu.cpp(696) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+Options.cpp
+PartPool.cpp
+CButton.cpp
+CCheckbox.cpp
+CColourPicker.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(109) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(110) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(112) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(113) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(113) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(113) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(113) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(125) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(126) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(129) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(129) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(129) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(129) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(159) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(160) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(162) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(162) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(162) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CColourPicker.cpp(162) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+CColourSlider.cpp
+CDialog.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CDialog.cpp(85) : warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+CGuiLayout.cpp
+CLabel.cpp
+CListview.cpp
+CScrollbar.cpp
+CSlider.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSlider.cpp(79) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\CSlider.cpp(126) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+CTextbox.cpp
+CWidget.cpp
+font.cpp
+gui.cpp
+text.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\text.cpp(100) : warning C4101: 'ret' : unreferenced local variable
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\text.cpp(126) : warning C4101: 'ret' : unreferenced local variable
+CarSimulation.cpp
+CLightManager.cpp
+CQuadTree.cpp
+Race_main.cpp
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Race_main.cpp(137) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Race_main.cpp(137) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+C:\Documents and Settings\jpmmc\Desktop\Matt's Folder\Street Rod 3\stable\Code\src\Race_main.cpp(137) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+Linking...
+
+
+
+<h3>Results</h3>
+sr3.exe - 0 error(s), 77 warning(s)
+</pre>
+</body>
+</html>

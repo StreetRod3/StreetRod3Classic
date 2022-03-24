@@ -1,0 +1,12 @@
+Default {
+   Pass1 {
+		TcGen tc_sphere
+		Texture chrome.png
+	}
+	Pass2 {
+		Texture grey.png
+		Alpha 0.75
+		Blend b_alpha
+	}
+}
+

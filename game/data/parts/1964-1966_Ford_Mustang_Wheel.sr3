@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 1964-1966 Ford Mustang Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 1964-1966_Ford_Mustang_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

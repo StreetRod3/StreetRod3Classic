@@ -1,0 +1,223 @@
+Material_#23 {
+	Pass1 {
+		Texture CHROME3.PNG
+	}
+}
+
+CarMaterial {
+Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+RGB 1,0,0
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+Material_#81 {
+	Pass1 {
+		Texture CHROME3.PNG
+	}
+}
+
+Material_#101 {
+	Pass1 {
+		Texture TRUNKE.PNG
+	}
+}
+
+Material_#1 {
+	Pass1 {
+		Texture TEX.PNG
+	}
+}
+
+CarMaterial {
+	Pass1 {
+		Texture 
+	}
+}
+
+window {
+	Pass1 {
+		RGB 0.270588, 0.466667, 0.956863
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+Material_#4 {
+	Pass1 {
+		Texture CHROME.PNG
+	}
+}
+
+Material_#7 {
+	Pass1 {
+		Texture FRTURNLI.PNG
+	}
+}
+
+Material_#12 {
+	Pass1 {
+		Texture FRLIGHT.PNG
+	}
+}
+
+Material_#2 {
+	Pass1 {
+		Texture CHROME3.PNG
+	}
+}
+
+Material_#21 {
+	Pass1 {
+		Texture RLLIGHT.PNG
+	}
+}
+
+Material_#9 {
+	Pass1 {
+		Texture TRUNKE.PNG
+	}
+}
+
+Material_#10 {
+	Pass1 {
+		Texture LPLATE.PNG
+	}
+}
+
+Material_#5 {
+	Pass1 {
+		Texture CHROME2.PNG
+	}
+}
+
+Material_#6 {
+	Pass1 {
+		Texture CHASSIS.PNG
+	}
+}
+
+Material_#71 {
+	Pass1 {
+		Texture TEX.PNG
+	}
+}
+
+Material_#11 {
+	Pass1 {
+		Texture FLLIGHT.PNG
+	}
+}
+
+Material_#8 {
+	Pass1 {
+		Texture FLTURNLI.PNG
+	}
+}
+
+Material_#22ø {
+	Pass1 {
+		Texture XFRAME.PNG
+	}
+}
+
+Material_#17 {
+	Pass1 {
+		Texture CMBLACK.PNG
+	}
+}
+
+Material_#13 {
+	Pass1 {
+		Texture SEATS.PNG
+	}
+}
+
+Material_#24 {
+	Pass1 {
+		Texture REARPNL.PNG
+	}
+}
+
+Material_#221 {
+	Pass1 {
+		Texture DOORPNL.PNG
+	}
+}
+
+Material_#15 {
+	Pass1 {
+		Texture BOOSTGUG.PNG
+	}
+}
+
+Material_#211 {
+	Pass1 {
+		Texture PEDALS.PNG
+	}
+}
+
+Material_#14 {
+	Pass1 {
+		Texture LOGO.PNG
+	}
+}
+
+Material_#16 {
+	Pass1 {
+		Texture FUELGUG.PNG
+	}
+}
+
+Material_#3 {
+	Pass1 {
+		RGB 0.000000, 0.078431, 0.243137
+		Alpha 0.500000
+		Blend b_alpha
+		Backcull false
+	}
+}
+
+Material_#14 {
+	Pass1 {
+		Texture MPHGUG.PNG
+	}
+}
+
+Material_#17 {
+	Pass1 {
+		Texture OILGUG.PNG
+	}
+}
+
+Material_#13 {
+	Pass1 {
+		Texture COLOR.PNG
+	}
+}
+
+Material_#131 {
+	Pass1 {
+		Texture RPMGUG.PNG
+	}
+}
+
+Material_#18 {
+	Pass1 {
+		Texture TRANSGUG.PNG
+	}
+}
+
+Material_#19 {
+	Pass1 {
+		Texture WTRGUG.PNG
+	}
+}
+

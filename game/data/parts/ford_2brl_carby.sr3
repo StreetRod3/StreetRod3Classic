@@ -1,0 +1,14 @@
+# Ford 2brl carby
+
+[General]
+Name = Ford 2-brl Carburettor
+Type = PRT_CARBY
+Manufacturer = MAN_FORD
+Model = 2brlcarby
+Barrels = 2
+
+[Price]
+MinPrice = 30
+MaxPrice = 45
+
+[Performance]

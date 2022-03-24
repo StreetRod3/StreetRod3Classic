@@ -1,0 +1,20 @@
+# Ford 3-speed manual transmission
+
+[General]
+Name = Ford 3-speed Transmission
+Type = PRT_TRANS
+Manufacturer = MAN_FORD
+Model = trans1
+
+
+[Price]
+MinPrice = 100
+MaxPrice = 150
+
+
+[Performance]
+NumGears = 3
+Automatic = false
+Ratio1 = 2.5
+Ratio2 = 1.7
+Ratio3 = 1.0

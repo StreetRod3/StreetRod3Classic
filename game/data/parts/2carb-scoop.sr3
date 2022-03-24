@@ -1,0 +1,15 @@
+# Scoop airfilter
+
+[General]
+Name = Dual Carb Scoop Air Filter
+Type = PRT_AIRFILTER
+Manufacturer = MAN_ANY
+Model = scoop
+ThroughHood = true
+Carbys = 2
+
+[Price]
+MinPrice = 50
+MaxPrice = 80
+
+[Performance]

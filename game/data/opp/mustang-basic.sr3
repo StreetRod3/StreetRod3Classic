@@ -1,0 +1,93 @@
+// Mustang car with parts
+
+[Car]
+Car = mustang
+Name = 1972 Ford 2dr Mustang
+Description = \nV-8. Auto. Runs good
+Manufacturer = MAN_FORD
+
+[Price]
+# This is for the shell alone
+MinPrice = 150
+MaxPrice = 300
+
+# This is the selling price
+SellingPrice = 1300
+
+
+
+[Tire1]
+Part = tire_stock
+Damage = 0
+
+[Tire2]
+Part = tire_stock
+Damage = 0
+
+[Tire3]
+Part = tire_stock
+Damage = 0
+
+[Tire4]
+Part = tire_stock
+Damage = 0
+
+[Block]
+Part = ford_block_351
+Damage = 0
+
+[Fan]
+Part = standard_fan
+Damage = 0
+
+[Alternator]
+Part = standard_alt
+Damage = 0
+
+[Intake]
+Part = ford_2brl_manifold
+Damage = 0
+
+[Starter]
+Part = starter_stock
+Damage = 0
+
+[Carb1]
+Part = ford_2brl_carby
+Damage = 0
+
+[Airfilter]
+Part = standard_airfilter
+Damage = 0
+
+[LMuffler]
+Part = standard_lmuffler
+Damage = 0
+
+[RMuffler]
+Part = standard_rmuffler
+Damage = 0
+
+[Shock1]
+Part = shock_stock
+Damage = 0
+
+[Shock2]
+Part = shock_stock
+Damage = 0
+
+[Shock3]
+Part = shock_stock
+Damage = 0
+
+[Shock4]
+Part = shock_stock
+Damage = 0
+
+[Diff]
+Part = ford_diff
+Damage = 0
+
+[Trans]
+Part = ford_3spd_trans
+Damage = 0

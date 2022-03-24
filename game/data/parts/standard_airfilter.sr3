@@ -1,0 +1,14 @@
+# Standard airfilter
+
+[General]
+Name = Single Carb Air Filter
+Type = PRT_AIRFILTER
+Manufacturer = MAN_ANY
+Model = filter1
+Carbys = 1
+
+[Price]
+MinPrice = 20
+MaxPrice = 30
+
+[Performance]

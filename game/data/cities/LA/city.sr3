@@ -1,0 +1,7 @@
+[Tracks]
+NumDragTracks = 1
+NumRoadTracks = 0
+
+[DragTrack1]
+Name = Drag Strip 1
+Dir = track1

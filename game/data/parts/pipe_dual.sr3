@@ -1,0 +1,16 @@
+# Dual exhaust pipe kit
+# Note: This is a 'kit' type of part. That means that it is not associated with a model.
+# The game simply does a specific task depending on the kit type to the car.
+# This can range from increasing engine capacity (bore kit) to installing a dual-exhaust system (dual pipe kit)
+
+[General]
+Name = Dual Exhaust Pipe Kit
+Type = PRT_DUALEXHAUSTPIPEKIT
+Manufacturer = MAN_ANY
+
+[Price]
+MinPrice = 0
+MaxPrice = 60
+
+[Performance]
+Cornering = 0.5

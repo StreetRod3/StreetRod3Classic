@@ -1,0 +1,13 @@
+# Standard starter that comes with most cars
+
+[General]
+Name = Normal Starter Motor
+Type = PRT_STARTER
+Manufacturer = MAN_ANY
+Model = starter1
+
+[Price]
+MinPrice = 5
+MaxPrice = 25
+
+[Performance]

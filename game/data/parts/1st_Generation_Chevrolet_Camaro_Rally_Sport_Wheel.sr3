@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 1st Generation Chevrolet Camaro \nRally Sport Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 1st_Generation_Chevrolet_Camaro_Rally_Sport_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

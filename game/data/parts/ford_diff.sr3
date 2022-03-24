@@ -1,0 +1,13 @@
+# Ford Differential
+
+[General]
+Name = Ford Differential
+Type = PRT_DIFF
+Manufacturer = MAN_FORD
+Model = diff1
+
+[Price]
+MinPrice = 100
+MaxPrice = 200
+
+[Performance]

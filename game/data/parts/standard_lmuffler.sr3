@@ -1,0 +1,13 @@
+# Standard left muffler that comes with most cars
+
+[General]
+Name = Regular left muffler
+Type = PRT_LMUFFLER
+Manufacturer = MAN_ANY
+Model = lmuffler1
+
+[Price]
+MinPrice = 40
+MaxPrice = 75
+
+[Performance]

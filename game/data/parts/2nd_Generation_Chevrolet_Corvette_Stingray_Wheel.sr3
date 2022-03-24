@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = 2nd Generation Chevrolet Corvette \nStingray Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = 2nd_Generation_Chevrolet_Corvette_Stingray_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

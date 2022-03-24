@@ -1,0 +1,13 @@
+# Standard alternator that comes with most cars
+
+[General]
+Name = Alternator
+Type = PRT_ALTER
+Manufacturer = MAN_ANY
+Model = alt1
+
+[Price]
+MinPrice = 10
+MaxPrice = 35
+
+[Performance]

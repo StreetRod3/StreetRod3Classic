@@ -1,0 +1,18 @@
+NormalMat {
+	Pass1 {
+		Texture gto-CAR00.png
+	}
+}
+
+CarMaterial {
+	Pass1 {
+		Texture gto-CAR00.png
+	}
+}
+
+shinytex {
+	Pass1 {
+		Texture gto-CAR00.png
+	}
+}
+

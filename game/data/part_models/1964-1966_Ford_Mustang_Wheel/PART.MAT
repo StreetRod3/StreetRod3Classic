@@ -1,0 +1,85 @@
+1_-_Default {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default3 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default11 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default1 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default2 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default4 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default5 {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+8_-_Default {
+	Pass1 {
+		RGB 0.000000, 0.000000, 0.000000
+	}
+}
+
+1_-_Default9 {
+	Pass1 {
+		Texture HUBCAP.PNG
+	}
+}
+
+ShinyMetal {
+	Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+2_-_Default {
+	Pass1 {
+		Texture TIRE.PNG
+	}
+}
+
+3_-_Default {
+	Pass1 {
+		Texture TREAD.PNG
+	}
+}
+
+1_-_Default6 {
+	Pass1 {
+		Texture REAR.PNG
+	}
+}
+

@@ -1,0 +1,212 @@
+Brick {
+	Pass1 {
+		Texture brick2.png
+	}
+}
+
+Water {
+	Pass1 {
+		Texture Floor.PNG
+	}
+}
+
+Curb {
+	Pass1 {
+		Texture Tutash.png
+	}
+}
+
+Road {
+	Pass1 {
+		Texture vconc.png
+	}
+}
+
+Material_#22 {
+	Pass1 {
+		Texture tools1.png
+	}
+}
+
+SprayPaint {
+	Pass1 {
+		Texture metal2.png
+	}
+}
+
+Material_#21 {
+	Pass1 {
+		Texture metal4.PNG
+	}
+}
+
+Environment {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+Material_#14 {
+	Pass1 {
+		Texture pipes4.PNG
+	}
+}
+
+red {
+	Pass1 {
+		RGB 0.874510, 0.192157, 0.192157
+	}
+}
+
+black {
+	Pass1 {
+		RGB 0.145098, 0.145098, 0.145098
+	}
+}
+
+Material_#9 {
+	Pass1 {
+		Texture Fluro.PNG
+	}
+}
+
+Material_#198 {
+	Pass1 {
+		Texture gtex02.png
+	}
+}
+
+green {
+	Pass1 {
+		RGB 0.058824, 0.372549, 0.019608
+	}
+}
+
+Metal_Chrome {
+	Pass1 {
+		RGB 0.498039, 0.498039, 0.498039
+	}
+}
+
+steelplate {
+	Pass1 {
+		Texture Steelplt.png
+	}
+}
+
+Material_#198 {
+	Pass1 {
+		Texture gtex02.png
+	}
+}
+
+tools3 {
+	Pass1 {
+		Texture tools3.png
+	}
+}
+
+red {
+	Pass1 {
+		RGB 0.874510, 0.192157, 0.192157
+	}
+}
+
+Metal_Chrome {
+	Pass1 {
+		RGB 0.498039, 0.498039, 0.498039
+	}
+}
+
+blackstuff {
+	Pass1 {
+		RGB 0.513726, 0.513726, 0.513726
+	}
+}
+
+red {
+	Pass1 {
+		RGB 0.874510, 0.192157, 0.192157
+	}
+}
+
+shinyobj {
+	Pass1 {
+		RGB 0.803922, 0.803922, 0.803922
+	}
+}
+
+SprayPaint2 {
+	Pass1 {
+		RGB 0.000000, 0.435294, 0.192157
+	}
+}
+
+blue {
+	Pass1 {
+		RGB 0.129412, 0.129412, 0.666667
+	}
+}
+
+silver {
+	Pass1 {
+		RGB 0.866667, 0.866667, 0.866667
+	}
+}
+
+flatblack {
+	Pass1 {
+		RGB 0.172549, 0.172549, 0.172549
+	}
+}
+
+chrome {
+	Pass1 {
+		RGB 0.807843, 0.807843, 0.807843
+	}
+}
+
+yellow {
+	Pass1 {
+		RGB 1.000000, 0.886275, 0.113725
+	}
+}
+
+garage_textures {
+	Pass1 {
+		Texture gtex01.png
+	}
+}
+
+Glass {
+	Pass1 {
+		RGB 1.000000, 1.000000, 1.000000
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+Material_#18 {
+	Pass1 {
+		Texture poster01.png
+	}
+}
+
+Material_#6 {
+	Pass1 {
+		Texture poster02.png
+	}
+}
+
+Poster {
+	Pass1 {
+		Texture poster03.png
+	}
+}
+
+Door12 {
+	Pass1 {
+		Texture garagedoor.png
+	}
+}
+

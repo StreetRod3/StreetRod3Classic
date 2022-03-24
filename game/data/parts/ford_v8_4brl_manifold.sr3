@@ -1,0 +1,16 @@
+# Ford 4-Barrel Intake manifold
+
+[General]
+Name = Ford 4-brl Manifold
+Type = PRT_INTAKEMAN
+Manufacturer = MAN_FORD
+Model = v8-1carb-intake
+Carbys = 1
+Barrels = 4
+Size = large
+
+[Price]
+MinPrice = 75
+MaxPrice = 150
+
+[Performance]

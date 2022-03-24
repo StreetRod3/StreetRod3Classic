@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = Cragar SS Wheel
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = Cragar_SS_Wheel
+
+[Price]
+MinPrice = 0
+MaxPrice = 150
+
+[Performance]
+Cornering = 1

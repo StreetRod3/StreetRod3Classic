@@ -1,0 +1,61 @@
+Street Rod 3 ChangeLog 
+
+v0.4.4.1
+--Repaired a bug we had due to accidentally including the wrong exe and some data corruption
+
+v0.4.4 
+Features added in this version: 
+--New cars have been included. 
+--The 3D format has been changed to a non-encrypted variant of the AUX format used before. All meshes have been updated to accommodate the change. 
+--Of course, the Street Rod 3 project is now Open-Source Software and is licensed under the GNU Public License (GPL). 
+--Transmission code has been added so that users can modify gear ratios and number of gears. 
+--The player now starts with $4900, as opposed to $1500. 
+--New Versioning Scheme Bugs fixed in this version: 
+--All in-game textures have been converted to PNG format to save both hard disk space and memory while the game is running. 
+--AI always shifted at 4700 rpm, even after reaching third gear. This slowed it down. 
+--AI now has a somewhat random, human-like reaction time. 
+--Engine and car physics have been revamped. Among the many changes, wheelies are now possible. 
+--Hacks removed to stop normally odd behavior. For example, now the red and green light work properly, controlling the status of the race.
+
+Bugs that remain in this version: 
+--Many wheels (especially those from the wheel pack) have a high polygon count. If you feel that the game is moving sluggishly, replace the wheels on your car with a wheel from the original game (i.e. normal tire, brand name tire, or racing slick). These are much easier on performance.
+--In some cars, the AI car is not visible through the front windshield. 
+--Reverse gear is entirely too fast. 
+--Tachometer does not work in reverse gear. 
+--Collision response is not enabled yet. Until then, you will be able to drive through your opponent. 
+--It is still possible to flip your car, although rare. 
+--It is still possible to run your car through the ground, although rare. 
+--The number of forward gears is currently limited to nine, although any transmission with more than five will not be supported by the SR3 development team. 
+
+Features planned in a future release: 
+--The physics engine will be totally overhauled in favor of a more realistic system that relies on accurate torque and horsepower curves. --Differential ratios will be included in the same fashion as the transmission ratios are now. 
+
+v0.42a: 
+--Started history file 
+--SR3 now uses a new & improved 3D file format. 
+--Improved newspaper entries & sorted them 
+--Added options support & more options 
+--Added screenshot button (F12) 
+--Added more parts 
+--Added speech bubbles to display messages 
+--Added hood customization (for raised air filters/scoops) 
+--Added ability for multiple carby's 
+--Added in Vertex Arrays & Multitexturing to speed up rendering 
+--Added 'Car Information' screen 
+--Added ability to remove bumpers 
+--Added stickers/decals 
+--Added shocks in. And they can alter car handling 
+--Added tire cornering value (different tires now affect steering) 
+--Added ability to repair a damaged part 
+--Added 'Sell Car' ability 
+--Added the diner to the game 
+--Fixed some bugs in changing parts
+--Fixed the bugs that were causing the lag when driving 
+--Fixed problem with textured cars not being painted 
+--Fixed problem with cursor & sidebar not showing up in garage 
+--Fixed up part adding/removal system 
+--Fixed the wheels going into the ground, and the car now rests on the wheels properly 
+--Fixed colour selection in paint menu 
+--Fixed problem with some textures having their colours inverted 
+--Fixed the engine 'displacement' bug 
+--Fixed up the list boxes 

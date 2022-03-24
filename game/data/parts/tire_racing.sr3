@@ -1,0 +1,14 @@
+# Racing slick
+
+[General]
+Name = Racing Slick
+Type = PRT_TIRE
+Manufacturer = MAN_ANY
+Model = tire2
+
+[Price]
+MinPrice = 0
+MaxPrice = 100
+
+[Performance]
+Cornering = 1

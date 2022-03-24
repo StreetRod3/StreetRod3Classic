@@ -1,0 +1,17 @@
+# Racing shocker that can be put onto any engine
+
+[General]
+Name = Racing Shock Absorber
+Description = \nFits all models
+Type = PRT_SHOCK
+Manufacturer = MAN_ANY
+Model = shock2
+
+[Price]
+MinPrice = 60
+MaxPrice = 80
+
+[Performance]
+Spring = 500
+Dampening = 30
+RestLength = 1.8

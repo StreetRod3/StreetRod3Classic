@@ -1,0 +1,224 @@
+ShinyMetal {
+	Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+CarMaterial {
+Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+RGB 0.733333,0.572549,0.360784
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+
+14_-_Default {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+8_-_Default1 {
+	Pass1 {
+		Texture BRAPED.PNG
+	}
+}
+
+1_-_Default1 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+1_-_Default {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+1_-_Default2 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+2_-_Default1 {
+	Pass1 {
+		Texture CLOCK.PNG
+	}
+}
+
+7_-_Default1 {
+	Pass1 {
+		Texture CLUPED.PNG
+	}
+}
+
+1_-_Default11 {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+1_-_Default12 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+3_-_Default {
+	Pass1 {
+		Texture FUEL.PNG
+	}
+}
+
+9_-_Default {
+	Pass1 {
+		Texture GASPED.PNG
+	}
+}
+
+1_-_Default21 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+1_-_Default4 {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+1_-_Default3 {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+1_-_Default22 {
+	Pass1 {
+		Texture KEYFOB.PNG
+	}
+}
+
+2_-_Default {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+2_-_Default2 {
+	Pass1 {
+		Texture WOOD.PNG
+	}
+}
+
+3_-_Default1 {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+1_-_Default5 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+2_-_Default11 {
+	Pass1 {
+		Texture HEADLGT.PNG
+	}
+}
+
+Tail_Light {
+	Pass1 {
+		RGB 1.000000, 0.000000, 0.000000
+		Alpha 0.850000
+		Blend b_alpha
+	}
+}
+
+1_-_Default51 {
+	Pass1 {
+		Texture INTERIO.PNG
+	}
+}
+
+2_-_Default111 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+1_-_Default31 {
+	Pass1 {
+		Texture LICENCE.PNG
+	}
+}
+
+8_-_Default {
+	Pass1 {
+		Texture GOLD.PNG
+	}
+}
+
+2_-_Default3 {
+	Pass1 {
+		Texture RADIATO.PNG
+	}
+}
+
+3_-_Default2 {
+	Pass1 {
+		Texture BLACK.PNG
+	}
+}
+
+1_-_Default6 {
+	Pass1 {
+		Texture WOOD.PNG
+	}
+}
+
+7_-_Default {
+	Pass1 {
+		Texture SPEEDO.PNG
+	}
+}
+
+Normal_Windows {
+	Pass1 {
+		RGB 0.501961, 0.501961, 0.501961
+		Alpha 0.500000
+		Blend b_alpha
+	}
+}
+
+ShinyMetal1 {
+	Pass1 {
+TcGen tc_sphere
+Texture envmap.png
+}
+
+Pass2 {
+Alpha 0.75
+Blend b_alpha
+backcull false
+}
+}
+

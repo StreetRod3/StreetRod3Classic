@@ -1,0 +1,31 @@
+#
+# Street Rod 3 Garage Script
+#
+# By Jason Boettcher
+# Created on 17th July, 2003
+#
+
+
+
+#
+# Light flares
+#
+$flare0[1-9] {
+   Type Sprite
+   Texture data/textures/glow.png
+   Size 1.25
+   Alpha 1
+   Blend b_colour
+   Colour 1,1,1
+   DepthMask false
+}
+
+$flare[10-20] {
+   Type Sprite
+   Texture data/textures/glow.png
+   Size 1.25
+   Alpha 1
+   Blend b_colour
+   Colour 1,1,1
+   DepthMask false
+}

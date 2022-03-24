@@ -1,0 +1,17 @@
+# Standard shocker that can be put onto any engine
+
+[General]
+Name = Shock Absorber
+Description = Fits all models
+Type = PRT_SHOCK
+Manufacturer = MAN_ANY
+Model = shock1
+
+[Price]
+MinPrice = 10
+MaxPrice = 40
+
+[Performance]
+Spring = 400
+Dampening = 15
+RestLength = 1.8

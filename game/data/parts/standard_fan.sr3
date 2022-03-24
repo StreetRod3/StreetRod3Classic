@@ -1,0 +1,13 @@
+# Standard fan that can be put onto any engine
+
+[General]
+Name = Cooling fan
+Type = PRT_FAN
+Manufacturer = MAN_ANY
+Model = fan1
+
+[Price]
+MinPrice = 10
+MaxPrice = 30
+
+[Performance]

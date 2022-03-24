@@ -135,16 +135,27 @@ Modeller
 Modelling Documentation
 
 The Contributors:
+
 Michael 'StreetRodRacer' Ciesluk
+
 Jose 'Trancos' Juarez-Comboni
+
 'Stereo'
+
 Eric Lugo
+
 Per Taljemark
+
 Ben Caudle
+
 Petur Kristjansson
+
 Richard Weaver
+
 PHOTOGS.co.uk
+
 Marc Fritzer
+
 Vasumathi Krishnan
 
 Special thanks to Ingenios:
